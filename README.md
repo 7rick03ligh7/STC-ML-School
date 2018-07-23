@@ -1,7 +1,10 @@
 # STC-ML-School
 
 Задание выполнялось в среле jupyter notebook с использованием python 3.6
+
 Все необходимые библиотеки прописаны в файле reqiurements.txt
+
+Для воссоздания результата следует удалить файлы .gitkeep
 
 Гугл диск
 https://drive.google.com/drive/u/0/folders/1U7ptnve1wlP_69H8WE2Trlgqp_6Q96Oq
