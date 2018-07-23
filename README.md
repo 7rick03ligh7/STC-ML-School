@@ -8,9 +8,9 @@ https://drive.google.com/drive/u/0/folders/1U7ptnve1wlP_69H8WE2Trlgqp_6Q96Oq
 
 
 data
-----audio
-----meta
-----processed_audio
-----processed_test
-----processed_unknown
+----audio \n
+----meta \n
+----processed_audio \n
+----processed_test \n
+----processed_unknown \n
 
